@@ -1,6 +1,7 @@
 ### UMD Computer Science '26
-What I lack in experience I make up with attitude and work ethic
+Attitude and work ethic
 Enjoy problem-solving and troubleshooting as well as creating new unique solutions to already-solved problems
+Experience in Java, HTML, JavaFX
 
 
 
