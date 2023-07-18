@@ -1,4 +1,8 @@
-### Hi there 👋
+### UMD Computer Science '26
+What I lack in experience I make up with attitude and work ethic
+Enjoy problem-solving and troubleshooting as well as creating new unique solutions to already-solved problems
+
+
 
 <!--
 **timothy-kramer/timothy-kramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
