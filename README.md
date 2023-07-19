@@ -3,6 +3,9 @@ Attitude and work ethic
 Enjoy problem-solving and troubleshooting as well as creating new unique solutions to already-solved problems
 Experience in Java, HTML, JavaFX
 
+to prevent academic dishonesty all projects are currently private, contact for access to code
+
+
 
 
 <!--
